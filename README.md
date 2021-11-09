@@ -1,5 +1,6 @@
 # Hi there, I'm Gabriel Andrade 👋
 
+> Line after line, I write the code of my life.
 - 🔭 I’m currently working as Solutions Developer at [@Sensedia](https://github.com/Sensedia)
 - 🌱 I’m currently learning Node, React and React Native
 - ⚡ Fun fact: I love to play sports and to read
